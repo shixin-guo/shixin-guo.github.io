@@ -4,10 +4,9 @@ date: 2017-07-31 16:55:16
 tags: react redux flux
 toc: true
 ---
-
-# 
 ## 问题描述
 近年来，Redux越来越火，基本上成了React项目的标配。而店铺统计一直还用的是Flux，所以我们准备逐步地从flux切换到redux。不过在引入Redux之前，需要看看它到底好在哪里。
+
 
 ## 问题解答
 
