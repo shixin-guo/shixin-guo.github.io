@@ -5,5 +5,5 @@ hexo d -g
 # 将源代码上传到dev分支保存
 
 git add .
-git commit -m "修改 添加"
+git commit -m "auto deploy and push dev branch"
 git push origin dev
