@@ -1,6 +1,6 @@
 #!/bin/bash -e
 # hexo 生成部署到github.io
-拉取远程分支的dev代码到 当前分支
+# 拉取远程分支的dev代码到 当前分支
 git pull origin dev
 hexo d -g
 
