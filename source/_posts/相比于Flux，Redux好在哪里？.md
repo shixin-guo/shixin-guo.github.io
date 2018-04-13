@@ -1,16 +1,4 @@
 ﻿---
-<<<<<<< HEAD
-title: 相比于Flux，Redux好在哪里？
-date: 2017-07-29 16:55:16
-tags: react redux flux baidu
-toc: true
----
-# 
-
-## 问题描述
-近年来，Redux越来越火，基本上成了React项目的标配。而店铺统计一直还用的是Flux，所以我们准备逐步地从flux切换到redux。不过在引入Redux之前，需要看看它到底好在哪里。
-
-=======
 title: 相比于flux redux 好在哪里
 date: 2017-07-31 16:55:16
 tags: react redux flux
@@ -20,7 +8,6 @@ toc: true
 近年来，Redux越来越火，基本上成了React项目的标配。而店铺统计一直还用的是Flux，所以我们准备逐步地从flux切换到redux。不过在引入Redux之前，需要看看它到底好在哪里。
 
 
->>>>>>> 22a588a882075bcd2a977cad743714fef3bb4d8e
 ## 问题解答
 
 [Dan Abramov（redux的作者）](https://stackoverflow.com/users/458193/dan-abramov)在stack overflow上有详细地回答 [Why use Redux over Facebook Flux](https://stackoverflow.com/questions/32461229/why-use-redux-over-facebook-flux)。不过，单从店铺统计这个项目来看，引入redux后，有什么好处呢？下面从store，action creator和component这三个方面来细说。
