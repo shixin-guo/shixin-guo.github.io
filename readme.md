@@ -6,3 +6,12 @@ hexo 搭建的github page 个人博客
 
 
 deploy.sh 主要是为了把源代码上传到dev分支。每次更新文章触发deploy。sh 就好。直接生成部署文章 并上传到dev分支保存源文件
+
+tip 新建文章 要不用 hexo new “文章名字” 要不直接在/source/_posts 下面新建 md 文件 但要注意 md文件内要添加
+---
+title: 文章标题
+date: 2017-07-31 16:55:16
+tags: react redux flux
+toc: true
+---
+否则会导致 deploy 之后文章显示 no—title
