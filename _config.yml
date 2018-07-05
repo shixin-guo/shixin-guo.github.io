@@ -81,12 +81,6 @@ deploy:
   type: git
   branch: master
 
-# 启用代码高亮
-highlight:
-  enable: true
-  auto_detect: true
-  line_number: true
-  tab_replace: true
 
 # 数学公式支持
 mathjax: true
