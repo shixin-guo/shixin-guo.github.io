@@ -79,3 +79,4 @@ theme: maupassant
 deploy:	
   repo: git@github.com:gzponline/gzponline.github.io.git
   type: git
+  branch: master
