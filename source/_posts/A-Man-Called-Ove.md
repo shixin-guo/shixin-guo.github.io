@@ -6,13 +6,11 @@ categories: movies
 toc: true
 ---
 
->固执地用自己的方式爱人，希望这也是对方想要的方式。
+> 固执地用自己的方式爱人，希望这也是对方想要的方式。
 
 ---
 
-
-
-**作者：**【瑞典】[弗雷德里克·巴克曼](http://www.fredrikbackman.com/)，80后博主
+**作者：**【瑞典】[弗雷德里克·巴克曼](http://www.fredrikbackman.com/)，80 后博主
 
 ![作者的blog首页](http://upload-images.jianshu.io/upload_images/1889471-484f8b8632de31e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -26,9 +24,7 @@ toc: true
 
 ![给妻子送花](http://upload-images.jianshu.io/upload_images/1889471-64f47de86ea90f81.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
 ![归还捡到钱包后和爸爸回家](http://upload-images.jianshu.io/upload_images/1889471-eb5b8733e9daa4a6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 
 沉默，坚韧，寡言，直率，吝啬，凶巴巴。。。在第一次请妻子吃饭时用理工男的思维谈机械原理，瞬间联想到自己（悲哀，心疼）。
 
@@ -45,4 +41,3 @@ toc: true
 所有执着而善良的人，即使寡言、刻板、沉闷，都不该孤独，也不该被孤独，更不会被这个世界抛弃。
 
 所有执着而善良的人，就算遭遇不公、不幸、不快乐，也会遇见、再遇见、又遇见幸福。
- 

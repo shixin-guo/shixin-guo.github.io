@@ -1,23 +1,51 @@
 # About Me
 
----
+[](http://morning.rocks/wp-content/uploads/2016/09/98.png)
 
-title: About This Blog
-date: 2018-07-04 16:55:16
-tags: blog
-toc: true
-donate: true
+# @士心
 
----
+一个想仰望星空的前端工程师
 
-Mail: <a href= "mailto:gzponline@163.com">gzponline@163.com</>
+# 关于这个博客：
 
-# About me
+什么要写 Blog？
 
-士心
-仰望星空的前端工程师
-所在团队：
-拼多多-上海 <del>百度-上海</del>，<del>讯飞-合肥</del>，<del>美团-厦门</del>
+Darren Rowse 在他的 [Blog](https://problogger.com/7-reasons-why-personal-blogs-rock/) 上，讲到了 7 个理由，
+其中的几条我十分赞同：
+
+便于体验 Blog 文化（give you a taste of blogging 'culture'）
+Blog 的世界有一种无形的礼仪、风格和用语。熟悉它们，会使你更好地表达自己和理解他人。
+便于你形成和了解自我（help you define a niche）
+长期写作 Blog 最大的好处之一就是，写着写着，你的自我会变得越来越清晰。你最终会明白自己是一个什么样的人，以及自己热爱的又是什么东西。
+这个年代还在写 blog 的可能有点，，，恋旧（或者说落伍），
+
+> 互联网最具价值的地方，在于赋予人们平等获取信息的权利
+> “如果你从苹果手机上打开了一个应用，你没办法直接复制它的 URL 地址，把它发给你的朋友。”他说，“当你有 URL 的时候，它就是万维网的一部分，是人类进程的一部分。……但任何一个应用都无法参与那样的进程。”
+> by： [伯纳斯·李 互联网之父 w3c 发明者）](https://baike.baidu.com/item/%E8%92%82%E5%A7%86%C2%B7%E4%BC%AF%E7%BA%B3%E6%96%AF%C2%B7%E6%9D%8E/8868412?fr=aladdin)
+
+我相信 网络应该是自由的 任何人都应该无差别的浏览到他人放在互联网上的信息
+作为一个对 web 有极端偏执信仰的人 我坚信 微信等 app 是网络的一种退步，一种商业化的信息垄断，每一个 app 都是一个信息孤岛，信息以及内容作为一直资源，由创作者生产，却被互联网巨头拥有，获益,但从目前的状况来看的话，移动端产品的封闭特性是大趋势，Web 世界的利益分配规则已经不再适用于移动世界。
+
+### 网站内容：
+
+#### 包括
+
+技术分享:我将避免出现教程类文章
+阶段性的总结
+一些我感兴趣的新东西
+
+#### 不会出现：
+
+转载文章 之前很多的文章都是教程 个人认为 教程更应该去找 google 或者官方文档，我写的可能早就过时了。
+基础技术教程
+
+### 所在团队：
+
+拼多多-上海
+<del>百度-上海</del>，
+<del>讯飞-合肥</del>，
+<del>美团-厦门</del>
+!(工作经历分享){https://gzponline.github.io/2018/02/14/%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86%E6%80%BB%E7%BB%93/}
 
 ### 关注领域：
 
@@ -26,3 +54,12 @@ Mail: <a href= "mailto:gzponline@163.com">gzponline@163.com</>
 - 软件工程
 - 人工智障
 - 区块链
+
+### 闲扯
+
+信仰 W3C
+
+Mail: <a href= "mailto:gzponline@163.com">gzponline@163.com</>
+Resume：<a href="../file/resume.pdf">我的简历</a>
+
+个人隐私问题。。。博客上能找到我所有的信息，但是既然你都找到这里了，我 default 你是善良的
