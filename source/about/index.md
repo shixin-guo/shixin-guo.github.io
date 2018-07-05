@@ -45,7 +45,7 @@ Blog 的世界有一种无形的礼仪、风格和用语。熟悉它们，会使
 <del>百度-上海</del>，
 <del>讯飞-合肥</del>，
 <del>美团-厦门</del>
-!(工作经历分享){https://gzponline.github.io/2018/02/14/%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86%E6%80%BB%E7%BB%93/}
+![工作经历分享](https://gzponline.github.io/2018/02/14/%E5%AE%9E%E4%B9%A0%E7%BB%8F%E5%8E%86%E6%80%BB%E7%BB%93/)
 
 ### 关注领域：
 
