@@ -1,6 +1,6 @@
 # About Me
 
-[](http://morning.rocks/wp-content/uploads/2016/09/98.png)
+![](http://morning.rocks/wp-content/uploads/2016/09/98.png)
 
 # @士心
 
