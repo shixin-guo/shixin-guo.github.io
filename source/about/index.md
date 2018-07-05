@@ -60,6 +60,9 @@ Blog 的世界有一种无形的礼仪、风格和用语。熟悉它们，会使
 信仰 W3C
 不会唱歌。。完全不会
 不打游戏。。贼坑
+不如意事常八九，可与人言无二三
+
+---
 
 Mail: <a href= "mailto:gzponline@163.com">gzponline@163.com</>
 Resume：<a href="../file/resume.pdf">我的简历</a>
