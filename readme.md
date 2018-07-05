@@ -13,6 +13,7 @@ date: 2017-07-31 16:55:16
 tags: react redux flux
 toc: true
 mathjax: true
+donate: true
 
 ---
 
