@@ -80,3 +80,13 @@ deploy:
   repo: git@github.com:gzponline/gzponline.github.io.git
   type: git
   branch: master
+
+# 启用代码高亮
+highlight:
+  enable: true
+  auto_detect: true
+  line_number: true
+  tab_replace:
+  
+# 数学公式支持
+mathjax: true
