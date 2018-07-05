@@ -64,7 +64,7 @@ Blog 的世界有一种无形的礼仪、风格和用语。熟悉它们，会使
 
 ---
 
-Mail: <a href= "mailto:gzponline@163.com">gzponline@163.com</>
+Mail: <a href= "mailto:gzponline@163.com">gzponline@163.com</a>
 Resume：<a href="../file/resume.pdf">我的简历</a>
 
 个人隐私问题。。。博客上能找到我所有的信息，但是既然你都找到这里了，我 default 你是善良的
