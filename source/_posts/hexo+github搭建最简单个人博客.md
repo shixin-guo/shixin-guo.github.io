@@ -1,7 +1,7 @@
 ---
 title: hexo+github搭建最简单个人博客
 date: 2016-01-29 16:55:16
-tags: hexo github blog
+tags: hexo 
 toc: true
 ---
 ![](http://upload-images.jianshu.io/upload_images/1889471-05bf557dc17132d3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

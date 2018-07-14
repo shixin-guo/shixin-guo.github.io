@@ -1,7 +1,7 @@
 ---
 title: linux安装deb-run文件
 date: 2016-02-29 11:55:16
-tags: linux deb run 
+tags: linux
 toc: true
 ---
 #### deb文件

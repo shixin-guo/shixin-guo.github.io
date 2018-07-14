@@ -1,7 +1,7 @@
 ---
 title: vscode 使用 prettier 与 eslint 自动规范代码
 date: 2018-07-05 12:55:53
-tags:
+tags: javascritp
 ---
 
 #### 主要解决问题

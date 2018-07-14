@@ -1,7 +1,7 @@
 ---
 title: yarn 尝鲜
 date: 2016-08-18 22:21:39
-tags: yarn npm
+tags: js
 categories: node
 
 ---

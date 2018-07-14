@@ -1,7 +1,7 @@
 ---
 title: 玩一下npm
 date: 2016-08-18 22:21:39
-tags: npm node
+tags: node
 categories: node
 
 ---

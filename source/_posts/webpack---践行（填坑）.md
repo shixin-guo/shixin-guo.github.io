@@ -1,7 +1,7 @@
 ---
 title: webpack---实践（添坑）
 date: 2016-08-18 22:21:39
-tags: movie
+tags: js
 categories: movies
 toc: true
 

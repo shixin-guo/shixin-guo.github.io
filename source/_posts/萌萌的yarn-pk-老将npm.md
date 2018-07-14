@@ -1,7 +1,7 @@
 ---
 title: 萌萌的yarn-pk-老将npm
 date: 2016-06-29 16:55:16
-tags: yarn npm
+tags: js
 toc: true
 ---
 

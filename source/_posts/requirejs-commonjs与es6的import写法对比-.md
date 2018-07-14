@@ -1,7 +1,7 @@
 ---
 title: requirejs-commonjs与es6的import写法对比-
 date: 2016-05-10 22:21:39
-tags: js
+tags: javascript
 categories: js
 
 ---

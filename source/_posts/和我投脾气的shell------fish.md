@@ -1,7 +1,7 @@
 ---
 title: 和我投脾气的shell------fish
 date: 2016-07-29 12:55:16
-tags: shell fish unix
+tags: tools
 toc: true
 ---
 
